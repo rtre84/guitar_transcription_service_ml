@@ -26,10 +26,10 @@ The best and accurate tabs are usually done by musicians who do it professionall
 
 ![gtpipeline](https://github.com/user-attachments/assets/67dd0297-0b90-4f23-9d66-ed638ece811d)
 
-Current Version:
+## Current Version
 The current python notebook code was written to run in a Collab notebook. Certain dependencies have been forked and changed to run in that environment. 
 
-TODO:
+## TODO
 - The current python notebook code needs to be ported to run on a local Jupyter notebook environment. Currently certain package python version and inconsistencies is what stops anyone from running this in the ver 3.9.12 for example.
 - The code needs to be packaged better so it can be called in as a dependecy.
 - The algorithm needs some love especially the graph traversal bit that finally decides where to fret. The current version finds the shortest path which doesn't translate a 100% all the time to how a human guitar player would arrange it. 
