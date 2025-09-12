@@ -99,3 +99,8 @@ This repository is a proof-of-concept that turns an isolated guitar track from Y
 5. **User interface & distribution**  
    - Consider building a web or desktop UI that wraps the pipeline for less technical users.  
    - Package the workflow as a Python library or web service for broader reuse.
+
+---
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
